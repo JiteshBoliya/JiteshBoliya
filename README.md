@@ -30,6 +30,9 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JiteshBoliya&show_icons=true&bg_color=00000000&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
+
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JiteshBoliya&theme=tokyonight&no-frame=false&margin-w=10" />
 </p>
