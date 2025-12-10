@@ -22,9 +22,22 @@
 
 <h3>Contact details</h3>
 <p >
-	<a href="mailto:jiteshb8182@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/JiteshBoliya"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/jiteshboliya"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:jiteshb8182@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://github.com/JiteshBoliya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/jiteshboliya">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://observablehq.com/user/@jiteshboliya">
+  <img src="https://img.shields.io/badge/Observable-0A5FFF?style=flat-square&logo=observable&logoColor=white" alt="Observable" />
+</a>
+
 </p>
 
 <h3>My GitHub contributions summary</h3>
