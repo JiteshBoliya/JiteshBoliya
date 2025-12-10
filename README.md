@@ -42,13 +42,16 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JiteshBoliya&theme=blueberry-duo&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362)](https://git.io/streak-stats)
+## 📊 GitHub Analytics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JiteshBoliya&show_icons=true&bg_color=00000000&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JiteshBoliya&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshBoliya&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JiteshBoliya&theme=radical)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JiteshBoliya&theme=tokyonight&no-frame=false&margin-w=10" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=JiteshBoliya&theme=dracula)
+
+![Visitors](https://komarev.com/ghpvc/?username=JiteshBoliya&style=flat-square)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JiteshBoliya&theme=rogue)
