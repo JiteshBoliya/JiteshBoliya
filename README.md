@@ -44,11 +44,11 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JiteshBoliya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JiteshBoliya&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshBoliya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JiteshBoliya&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JiteshBoliya&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=JiteshBoliya&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=JiteshBoliya&theme=dracula)
 
